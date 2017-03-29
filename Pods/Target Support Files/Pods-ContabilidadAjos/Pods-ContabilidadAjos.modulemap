@@ -1,0 +1,6 @@
+framework module Pods_ContabilidadAjos {
+  umbrella header "Pods-ContabilidadAjos-umbrella.h"
+
+  export *
+  module * { export * }
+}
